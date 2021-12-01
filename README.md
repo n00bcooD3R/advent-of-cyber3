@@ -30,9 +30,15 @@ Mischief Manager
 THM{AOC_IDOR_2B34BHI3}
 ```
 <br>
-      <p align="left">If you want to learn more about IDOR vulnerabilities, we suggest trying out this room <a href="https://tryhackme.com/room/idor">click</a> <p>
+      <p align="left">5.If you want to learn more about IDOR vulnerabilities, we suggest trying out this room <a href="https://tryhackme.com/room/idor">click</a> <p>
   
 ```
-The Boss!
+No answer needed.
+```
+<br>
+        <p align="left">6.Tasks released each day get progressively harder (but are still guided with walkthrough videos). Come back tomorrow for Day 2's task!<p>
+  
+```
+No answer needed.
 ```
 <br>
