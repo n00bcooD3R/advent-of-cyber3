@@ -42,3 +42,37 @@ No answer needed.
 No answer needed.
 ```
 <br>
+<h3 align="left">DAY2 [Web Exploitation-Elf HR Problems]
+</h3>
+<br>
+<p align="left">1. Open the static site in a new tab,<a href="https://static-labs.tryhackme.cloud/sites/aoc-cookies/">here</a>.>
+  
+```
+No answer needed.
+```
+<br>
+  <p align="left">Register an account, and verify the cookies using the Developer Tools in your browser
+<br>2. What is the name of the new cookie that was created for your account</p>
+```
+user-auth
+```
+<br>
+<p align="left">3. What encoding type was used for the cookie value?</p>
+  
+```
+hexadecimal
+```
+<br>
+<p align="left">4. What object format is the data of the cookie stored in?</p>
+  
+```
+JSON
+```
+<br>
+<p align="left">Manipulate the cookie and bypass the login portal.
+<br>5.What is the value of the administrator cookie? (username = admin)</p>
+  
+```
+7b636f6d70616e793a2022546865204265737420466573746976616c20436f6d70616e79222c206973726567697374657265643a2254727565222c20757365726e616d653a2261646d696e227d
+```
+<br>
