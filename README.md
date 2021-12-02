@@ -70,8 +70,9 @@ hexadecimal
 JSON
 ```
 <br>
-<p align="left">Manipulate the cookie and bypass the login portal.
-<br>5. What is the value of the administrator cookie? (username = admin)</p>
+<p>Manipulate the cookie and bypass the login portal.</p>
+<br>
+<p align="left">5. What is the value of the administrator cookie? (username = admin)</p>
   
 ```
 7b636f6d70616e793a2022546865204265737420466573746976616c20436f6d70616e79222c206973726567697374657265643a2254727565222c20757365726e616d653a2261646d696e227d
