@@ -50,7 +50,7 @@ No answer needed.
 ```
 No answer needed.
 ```
-<br>
+<br><br>
   <p align="left">Register an account, and verify the cookies using the Developer Tools in your browser
 <br>2. What is the name of the new cookie that was created for your account</p>
 
@@ -69,9 +69,8 @@ hexadecimal
 ```
 JSON
 ```
-<br>
+<br><br>
 <p>Manipulate the cookie and bypass the login portal.</p>
-<br>
 <p align="left">5. What is the value of the administrator cookie? (username = admin)</p>
   
 ```
