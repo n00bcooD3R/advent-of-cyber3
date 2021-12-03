@@ -2,4 +2,6 @@
   Advent-of-Cyber3
   </h1>
 <br>
-<br>
+<h2 align="left">
+  Click on @ symbol next to Days
+  </h2>
