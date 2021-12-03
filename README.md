@@ -6,3 +6,5 @@
   </h2>
   <br>
 <a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/DAY-1.md">● DAY-1</a>
+<br>
+<a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/DAY-2.md">● DAY-2</a>
