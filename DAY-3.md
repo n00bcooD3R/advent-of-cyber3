@@ -8,3 +8,16 @@
 admin
 ```
 <br>
+  <p align="left">2. In your web browser, try some default credentials on the newly discovered login form for the "administrator" user. What is the password?
+<p>
+  
+```
+administrator
+```
+  <br>
+  <p align="left">1. Access the admin panel. What is the value of the flag?
+<p>
+  
+```
+THM{ADM1N_AC3SS}
+```
