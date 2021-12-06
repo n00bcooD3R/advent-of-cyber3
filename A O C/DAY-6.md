@@ -7,7 +7,7 @@
 ***********
 ```
   <br>
-  <p align="left">1. Use the entry point to perform ```LFI``` to read the ```/etc/flag``` file. What is the flag??<p>
+  <p align="left">1. Use the entry point to perform `LFI` to read the `/etc/flag` file. What is the flag??<p>
   
 ```
 ***********
