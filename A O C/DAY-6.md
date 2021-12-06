@@ -7,8 +7,39 @@
 ***********
 ```
   <br>
-<p align="left">1. Use the entry point to perform <code>LFI</code> to read the <code>/etc/flag</code> file. What is the flag??<p>
+<p align="left">2. Use the entry point to perform <code>LFI</code> to read the <code>/etc/flag</code> file. What is the flag?<p>
   
 ```
 ***********
 ```
+  <br>
+  <p align="left">3. <p>
+  
+```
+***********
+```
+  <br>
+      <p align="left">4. <p>
+  
+```
+***********
+```
+  <br>
+          <p align="left">5. <p>
+  
+```
+***********
+```
+  <br>
+              <p align="left">6. <p>
+  
+```
+***********
+```
+  <br>
+                  <p align="left">7. <p>
+  
+```
+***********
+```
+  <br>
