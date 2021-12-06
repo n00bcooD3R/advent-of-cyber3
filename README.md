@@ -4,16 +4,16 @@
 <h3 align="center">
   -- Click on Days to see Answers --
   </h2>
-  <a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/DAY-1.md">● DAY-1</a>
+  <a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/A%20O%20C/DAY-1.md">● DAY-1</a>
 <br><br>
-<a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/DAY-2.md">● DAY-2</a>
+<a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/A%20O%20C/DAY-2.md">● DAY-2</a>
 <br><br>
-<a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/DAY-3.md">● DAY-3</a>
+<a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/A%20O%20C/DAY-3.md">● DAY-3</a>
 <br><br>
-<a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/DAY-4.md">● DAY-4</a>
+<a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/A%20O%20C/DAY-4.md">● DAY-4</a>
 <br><br>
-<a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/DAY-5.md">● DAY-5</a>
+<a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/A%20O%20C/DAY-5.md">● DAY-5</a>
 <br><br>
-<a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/DAY-6.md">● DAY-6</a>
+<a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/A%20O%20C/DAY-6.md">● DAY-6</a>
 
 
