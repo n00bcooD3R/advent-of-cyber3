@@ -1,4 +1,4 @@
-<h3 align="left">DAY1 [Web Exploitation-Migration Without Security]
+<h3 align="left">DAY7 [Web Exploitation-Migration Without Security]
 </h3>
 <br>
 <p align="left">1. Interact with the MongoDB server to find the flag. What is the flag?<p>
@@ -14,4 +14,15 @@
 ```
 *******
 ```
-
+<br>
+<p align="left">3. Once you are logged in, use the gift search page to list all usernames that have <code>guest</code> roles. What is the flag?<p>
+  
+```
+*******
+```
+<br>
+  <p align="left">4. Use the gift search page to perform NoSQL injection and retrieve the <code>mcskidy</code> record. What is the details recor<p>
+  
+```
+*******
+```
