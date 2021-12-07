@@ -21,7 +21,7 @@
 *******
 ```
 <br>
-  <p align="left">4. Use the gift search page to perform NoSQL injection and retrieve the <code>mcskidy</code> record. What is the details recor<p>
+  <p align="left">4. Use the gift search page to perform NoSQL injection and retrieve the <code>mcskidy</code> record. What is the details recor?<p>
   
 ```
 *******
