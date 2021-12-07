@@ -7,7 +7,7 @@
 *******
 ```
 <br>
-  <img align="center" width="2" height="2" alt="Your internet speed sucks" src="11ebe0504325632b2690ebb147fdcf58.png"></img>
+  <img align="center" width="50" height="50" alt="Your internet speed sucks" src="11ebe0504325632b2690ebb147fdcf58.png"></img>
 <p align="left">1. Interact with the MongoDB server to find the flag. What is the flag?<p>
   
 ```
