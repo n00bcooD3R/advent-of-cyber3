@@ -22,19 +22,19 @@ microsoft windows 11 pro
 <p align="left">2. What was the password set for the new "backdoor" account?</p>
   
 ```
-C:\Users\santa\AppData\Local\Microsoft\Windows\UsrClass.dat
+grinchstolechristmas
 ```
 <br>
 <p align="left">3.In one of the transcription logs,  the bad actor interacts with the target under the new backdoor user account, and copies a unique file to the Desktop. Before it is copied to the Desktop, <b>what is the full path of the original file?</b></p>
   
 ```
-certutil.exe
+C:\Users\santa\AppData\Local\Microsoft\Windows\UsrClass.dat
 ```
 <br>
 <p align="left">4.The actor uses a <a href="https://lolbas-project.github.io/lolbas/Binaries/Certutil/">Living Off The Land</a> binary (LOLbin) to encode this file, and then verifies it succeeded by viewing the output file. <b>What is the name of this LOLbin?</b></p>
   
 ```
-.github
+certutil.exe
 ```
 
 <h2>there a reading to be done . yu can read it on challange page <a href="https://tryhackme.com/room/adventofcyber3">here</a></h2>
