@@ -4,13 +4,13 @@
 <p align="left">1. In the <b>HTTP #1 - GET</b> requests section, which directory is found on the web server?</p>
   
 ```
-******
+login
 ```
 <br>
 <p align="left">2. What is the username and password used in the login page in the <b>HTTP #2 - POST</b> section?</p>
   
 ```
-******
+McSkidy:Christmas2021!
 ```
 <br>
 <p align="left">3. What is the User-Agent's name that has been sent in <b>HTTP #2 - POST</b> section?</p>
