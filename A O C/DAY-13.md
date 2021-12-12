@@ -1,4 +1,4 @@
-<h3 align="left">DAY13 [****************************]
+<h3 align="left">DAY13 [Networking-They lost the plan]
 </h3>
 
 # Not Yet Updated
