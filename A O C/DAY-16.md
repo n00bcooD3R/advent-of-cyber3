@@ -1,4 +1,4 @@
-<h3 align="left">DAY16 [***************************************]
+<h3 align="left">DAY16 [Osint-ransomeware madness]
 </h3>
 
 # Not Yet Updated
