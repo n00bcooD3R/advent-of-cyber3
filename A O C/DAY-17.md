@@ -1,4 +1,4 @@
-<h3 align="left">DAY17 [****************************]
+<h3 align="left">DAY17 [Cloud-elf leaks]
 </h3>
 
 # Not Yet Updated
