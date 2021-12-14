@@ -28,7 +28,10 @@
 <br><br>
 <a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/A%20O%20C/DAY-12.md">● DAY-12</a>
 <br><br>
-<a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/A%20O%20C/DAY-13.md">● DAY-13</a><p>(today)</p>
+<a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/A%20O%20C/DAY-13.md">● DAY-13</a>
+<br><br>
+<a href="https://github.com/n00bcooD3R/advent-of-cyber3/blob/main/A%20O%20C/DAY-14.md">● DAY-14</a><p>(today)</p>
+
 
 
 
